@@ -13,3 +13,6 @@ __pycache__/
 
 # Presentation material stays local (PDF, deck source, screenshots)
 docs/
+
+# Local Claude Code instructions
+CLAUDE.md
