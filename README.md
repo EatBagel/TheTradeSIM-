@@ -1,5 +1,7 @@
 # Investment Scenario Simulator
 
+**"TheTradeSIM"**
+
 > Investors are shown a single number — "expected return 7%". We show them the full range of what could actually happen, and explain it in plain language.
 
 Built for the **Blackstone Challenge at ShellHacks 2026**.
