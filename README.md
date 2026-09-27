@@ -250,7 +250,7 @@ Nothing in this application constitutes a recommendation to buy or sell any secu
 
 ## Team
 
-Built at ShellHacks 2026 by *[Your names here]*.
+Built at ShellHacks 2026 by *Joseph Carmona, Keniel Cruz Garcia, Daniele Vernaleone*.
 
 ---
 
