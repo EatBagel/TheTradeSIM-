@@ -132,8 +132,8 @@ Fan charts       Statistics
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/the-trade-sim.git
-cd the-trade-sim
+git clone https://github.com/EatBagel/TheTradeSIM-.git
+cd TheTradeSIM-
 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
@@ -418,7 +418,7 @@ Nothing in this application constitutes a recommendation to buy or sell any secu
 
 ## Team
 
-Built at ShellHacks 2026 by *[Your names here]*.
+Built at ShellHacks 2026 by *Joseph Carmona, Daniele Vernaleone, Keniel Cruz Garcia*.
 
 ---
 
