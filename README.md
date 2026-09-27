@@ -29,9 +29,10 @@ Built for the **Blackstone Challenge at ShellHacks 2026**.
 
 ## Overview
 
-The Trade Sim is a web application that helps investors understand the **range of possible outcomes** of an investment plan instead of a single projected return. The user enters how they want to invest, how much, and for how long. The app runs thousands of simulations on real market data, visualizes the results as fan charts for the whole plan and for each investment, and computes risk statistics in plain terms.
+The Trade Sim is a learning platform for first-time investors that helps them understand the **range of possible outcomes** of an investment plan. The user enters how they want to invest, how much, and for how long. The app runs thousands of simulations on real market data, visualizes the results as fan charts for the whole plan and for each investment, and computes risk statistics in plain terms.
 
 We do not predict the market. We make risk **visible and understandable**.
+
 
 ---
 
