@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit secrets (none used, but never commit them)
+.streamlit/secrets.toml
+
+# Presentation material stays local (PDF, deck source, screenshots)
+docs/
