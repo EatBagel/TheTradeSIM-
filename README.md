@@ -1,6 +1,6 @@
 # The Trade Sim
 
-<p><img src="assets/logo.svg" width="72" alt="The Trade Sim logo"></p>
+
 
 > Investors are shown a single number — "expected return 7%". We show them the full range of what could actually happen, and explain it in plain language.
 
